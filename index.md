@@ -17,7 +17,7 @@ Syntax highlighted code block
 - Optional Virtual PSO
 - vim
 
-![Image]([src](https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg))
+![Image](https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
